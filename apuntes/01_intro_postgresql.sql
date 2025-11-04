@@ -1,0 +1,1 @@
+-- Apuntes iniciales del curso de SQL con PostgreSQL
