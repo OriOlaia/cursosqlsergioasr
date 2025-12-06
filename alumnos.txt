@@ -1,0 +1,4 @@
+1001; Ana; Gomez; 21; 8.7
+1002; Luis; Perez; 19; 7.2
+1003; Maria; López; 22; 9.5
+1004; Juan; Martinez; 20; 6.8
